@@ -1,0 +1,1 @@
+This project tries to collect all the Python S60 related extensions under the same umbrella. It focuses on Symbian/C++ extensions, but pure Python extensions are not excluded either.
